@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "XatApp"
 include(":app")
 include(":core")
+include(":feature")
